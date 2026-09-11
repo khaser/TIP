@@ -17,6 +17,7 @@
             jdk21
             sbt
             metals
+            graphviz # (Tip.scala emit CFG as .dot files)
           ];
 
         };
