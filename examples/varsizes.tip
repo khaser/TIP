@@ -1,0 +1,12 @@
+main() {
+    var bb, b, s, c, x, y, z, result;
+    b = 1; // bool
+    s = 100; // byte
+    x = s + s; // char
+    bb = x > 200; // bool
+    c = 1000; // int
+    y = b * c + s; // bigint
+    z = input; // any
+    result = z + x; // any
+    return result;
+}
